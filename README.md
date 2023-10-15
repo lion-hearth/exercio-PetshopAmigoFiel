@@ -15,3 +15,5 @@ Exercicio com o objetivo de criar um Petshop para melhor comprensão de alguns c
         Se o código foi executado corretamente você devera ver a tela abaixo com sucesso.
              
 </p>
+
+![image](https://github.com/lion-hearth/exercio-PetshopAmigoFiel/assets/78951995/d5f7e4fd-ba77-4d3a-b03e-3d66e9a33d64)
